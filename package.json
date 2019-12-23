@@ -1,0 +1,25 @@
+{
+  "name": "bookmanagementsystem",
+  "version": "0.0.1",
+  "description": "Book Management System for GSM Students",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadistic-coder/BookManagementSystem.git"
+  },
+  "keywords": [
+    "school"
+  ],
+  "author": "Las",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sadistic-coder/BookManagementSystem/issues"
+  },
+  "homepage": "https://github.com/sadistic-coder/BookManagementSystem#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
